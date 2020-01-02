@@ -17,18 +17,19 @@
   5.添加购物车功能。
 
 # 三、页面展示
-<div align=center><img src="https://github.com/hwfang26/food/blob/master/product_img/1.png" width="270" height="500"/></div>
-<div align=center><img src="https://github.com/hwfang26/food/blob/master/product_img/2.png" width="270" height="500"/></div>
-<div align=center><img src="https://github.com/hwfang26/food/blob/master/product_img/3.png" width="270" height="500"/></div>
-<div align=center><img src="https://github.com/hwfang26/food/blob/master/product_img/4.png" width="270" height="500"/></div>
-<div align=center><img src="https://github.com/hwfang26/food/blob/master/product_img/5.png" width="270" height="500"/></div>
-<div align=center><img src="https://github.com/hwfang26/food/blob/master/product_img/6.png" width="270" height="500"/></div>
-<div align=center><img src="https://github.com/hwfang26/food/blob/master/product_img/7.png" width="270" height="500"/></div>
-<div align=center><img src="https://github.com/hwfang26/food/blob/master/product_img/8.png" width="270" height="500"/></div>
-<div align=center><img src="https://github.com/hwfang26/food/blob/master/product_img/9.png" width="270" height="500"/></div>
-<div align=center><img src="https://github.com/hwfang26/food/blob/master/product_img/10.png" width="270" height="500"/></div>
-<div align=center><img src="https://github.com/hwfang26/food/blob/master/product_img/11.png" width="270" height="500"/></div>
-<div align=center><img src="https://github.com/hwfang26/food/blob/master/product_img/12.png" width="270" height="500"/></div>
-<div align=center><img src="https://github.com/hwfang26/food/blob/master/product_img/13.png" width="270" height="500"/></div>
+<div><img src="https://github.com/hwfang26/food/blob/master/product_img/1.png" width="270" height="500"/></div>
+<div><img src="https://github.com/hwfang26/food/blob/master/product_img/2.png" width="270" height="500"/></div>
+<div><img src="https://github.com/hwfang26/food/blob/master/product_img/3.png" width="270" height="500"/></div>
+<div><img src="https://github.com/hwfang26/food/blob/master/product_img/4.png" width="270" height="500"/></div>
+<div><img src="https://github.com/hwfang26/food/blob/master/product_img/5.png" width="270" height="500"/></div>
+<div><img src="https://github.com/hwfang26/food/blob/master/product_img/6.png" width="270" height="500"/></div>
+<div><img src="https://github.com/hwfang26/food/blob/master/product_img/7.png" width="270" height="500"/></div>
+<div><img src="https://github.com/hwfang26/food/blob/master/product_img/8.png" width="270" height="500"/></div>
+<div><img src="https://github.com/hwfang26/food/blob/master/product_img/9.png" width="270" height="500"/></div>
+<div><img src="https://github.com/hwfang26/food/blob/master/product_img/10.png" width="270" height="500"/></div>
+<div><img src="https://github.com/hwfang26/food/blob/master/product_img/11.png" width="270" height="500"/></div>
+<div><img src="https://github.com/hwfang26/food/blob/master/product_img/12.png" width="270" height="500"/></div>
+<div><img src="https://github.com/hwfang26/food/blob/master/product_img/13.png" width="270" height="500"/></div>
+<div><img src="https://github.com/hwfang26/food/blob/master/product_img/14.png" width="270" height="500"/></div>
 
 # 四、技术选型
