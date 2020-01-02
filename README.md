@@ -17,6 +17,11 @@
   5.添加购物车功能。
 
 # 三、页面展示
+<figure class="third">
+  <img src="https://github.com/hwfang26/food/blob/master/product_img/1.png" width="270" height="500"/>
+  <img src="https://github.com/hwfang26/food/blob/master/product_img/1.png" width="270" height="500"/>
+  <img src="https://github.com/hwfang26/food/blob/master/product_img/1.png" width="270" height="500"/>
+</figure>
 <div align=center><img src="https://github.com/hwfang26/food/blob/master/product_img/1.png" width="270" height="500"/></div>
 <div align=center><img src="https://github.com/hwfang26/food/blob/master/product_img/2.png" width="270" height="500"/></div>
 <div align=center><img src="https://github.com/hwfang26/food/blob/master/product_img/3.png" width="270" height="500"/></div>
