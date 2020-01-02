@@ -38,13 +38,13 @@
 
 ### 1、项目整体基于vue-cli2搭建前端框架，使用阿里巴巴矢量图标库引入iconfont字体图标，引入fastclik.js插件解决移动端0.3s点击延迟问题。
 ### 2、使用css预处理器stylus进行css代码的快速编写，运用flex进行弹性布局，并用媒体查询根据设备像素比device-pixel-ratio对移动端1px边框进行对应比例的缩放，同时根据不同的像素比使用2X图或3X图。
-<div align=center><img src="https://github.com/hwfang26/food/blob/master/product_img/16.png" /></div>
+<div align=center><img src="https://github.com/hwfang26/food/blob/master/product_img/17.png" /></div>
 
 ### 3、使用mint-ui组件库编写button按钮和弹出框，运用better-scroll和swiper插件配合watch和$nextTick()方法实现页面滚动效果，利用vue中的transition组件实现动画过渡效果。
 ### 4、使用vue-router实现前端路由跳转，运用vuex保存用户信息、地址、商家列表、购物车列表等相关信息，并对各个组件状态进行管理。	
 ### 5、使用axios对ajax请求函数进行封装，并用mockjs对后台请求接口进行模拟，在vuex的actions中使用async/await更加语义化的对异步返回结果进行处理。
-<div align=center><img src="https://github.com/hwfang26/food/blob/master/product_img/14.png" /></div>
 <div align=center><img src="https://github.com/hwfang26/food/blob/master/product_img/15.png" /></div>
+<div align=center><img src="https://github.com/hwfang26/food/blob/master/product_img/16.png" /></div>
 ### 6、使用正则表达式对登录账号信息进行前端校验。
 ### 7、运用keep-alive、路由组件懒加载、图片懒加载vue-lazyload对项目进行优化以提高性能。 
 
