@@ -44,6 +44,7 @@
 
 <script>
     import Swiper from 'swiper'
+    import '_swiper@5.3.1@swiper/css/swiper.min.css'
     import { mapState } from 'vuex' //方便直接使用Vuex中state的数据而不用通过computed间接获取
 
     import HeaderTop from '../../components/HeaderTop/HeaderTop.vue'
